@@ -6,7 +6,7 @@
 
 ## About the Project
 
-  This repo contains the output files for the Spotify Clone with respect to the [React JS Tutorial for Beginners](https://www.youtube.com/watch?v=-cMqr9HpZ-Y). All credits go to [CleverPrograamer YT Channel](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)
+  This repo contains the output files for the Spotify Clone with respect to the [React JS Tutorial for Beginners](https://www.youtube.com/watch?v=-cMqr9HpZ-Y). All credits go to [CleverProgrammer YT Channel](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)
 
 ## Live Demonstartion of the Project
 
