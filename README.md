@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/CrypticMuze/netflix-clone/blob/master/netflix-clone/public/netflixlogo.png" alt="SpotifyLogo" height=200px width=200px/>
+<img src="https://github.com/CrypticMuze/spotify-clone/blob/master/public/spotifylogo.png" alt="SpotifyLogo" height=200px width=200px/>
 </p>
 
 # Spotify Clone
